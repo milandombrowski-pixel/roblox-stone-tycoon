@@ -1,0 +1,64 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "A modern, feature-rich to-do list application with local storage functionality",
+  "main": "index.html",
+  "scripts": {
+    "start": "Open index.html in your browser",
+    "build": "No build required - vanilla JS only",
+    "deploy": "Upload all files to your web server"
+  },
+  "keywords": [
+    "todo",
+    "task",
+    "list",
+    "productivity",
+    "local-storage",
+    "vanilla-js",
+    "no-dependencies",
+    "responsive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": "https://github.com/milandombrowski-pixel/roblox-stone-tycoon",
+  "features": {
+    "core": [
+      "Add tasks",
+      "Mark complete",
+      "Delete tasks",
+      "Priority levels (Low, Medium, High)",
+      "Filter tasks (All, Active, Completed)",
+      "Local storage persistence"
+    ],
+    "ui": [
+      "Modern gradient design",
+      "Smooth animations and transitions",
+      "Fully responsive layout",
+      "Accessibility features",
+      "Real-time statistics",
+      "Empty state messaging"
+    ],
+    "storage": [
+      "Browser localStorage API",
+      "Automatic saving on every change",
+      "Error handling and recovery",
+      "5-10 MB storage capacity per domain"
+    ]
+  },
+  "browser-support": {
+    "chrome": "✅ Full support",
+    "firefox": "✅ Full support",
+    "safari": "✅ Full support",
+    "edge": "✅ Full support",
+    "opera": "✅ Full support",
+    "mobile": "✅ Full support"
+  },
+  "file-size": "~15 KB total (uncompressed)",
+  "dependencies": "None - Vanilla JavaScript only",
+  "deployment": [
+    "GitHub Pages",
+    "Netlify",
+    "Vercel",
+    "Self-hosted server"
+  ]
+}
