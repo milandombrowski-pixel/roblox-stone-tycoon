@@ -1,0 +1,22 @@
+# Roblox Studio Files
+*.rbxlx.lock
+*.rbxlx~
+metadata.json
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Project Files
+node_modules/
+.env
